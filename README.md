@@ -30,3 +30,17 @@ Business Profit Analyzer is a Data Analytics project developed using Python, SQL
 - Analyzed profitability across regions
 - Monitored KPIs using Power BI dashboards
 - Generated business insights for decision-making
+- 
+## Dashboard Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](pb2.png)
+
+### Sales & Profit Analysis
+
+![Sales & Profit Analysis](pb3.png)
+
+### Profit Analysis
+
+![Profit Analysis](screenshotsprofit-analysis.png.png)
