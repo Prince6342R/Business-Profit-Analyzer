@@ -35,12 +35,12 @@ Business Profit Analyzer is a Data Analytics project developed using Python, SQL
 
 ### Dashboard Overview
 
-![Dashboard Overview](pb2.png)
+![Dashboard Overview](dashboard-overview.png)
 
-### Sales & Profit Analysis
+### Risk and Loss Analysis
 
-![Sales & Profit Analysis](pb3.png)
+![Sales & Profit Analysis](risk and loss analysis.png)
 
-### Profit Analysis
+### Ml Analysis
 
-![Profit Analysis](screenshotsprofit-analysis.png.png)
+![Profit Analysis](ml analysis.png.png)
